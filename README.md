@@ -8,7 +8,7 @@
     -->
 ```ruby
 # frozen_string_literal: true
-module Benji
+module Tanmay
   OCCUPATION = NULL
   CONTACT = "tanmay404103@outlook.com"
   TERMINAL_EMULATOR = "Alacritty"
