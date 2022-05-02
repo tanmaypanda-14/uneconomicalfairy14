@@ -17,8 +17,8 @@ module Tanmay
     unix_systems terminal_emulators
     ML DSA CP 
    ]
-  IMPERATIVE_LANGUAGES = %i[html javascript django ]
-  DECLARATIVE_LANGUAGES = %i[react python cpp lua java c ]
+  IMPERATIVE_LANGUAGES = %i[html django cpp c java]
+  DECLARATIVE_LANGUAGES = %i[react javascript python sql lua ]
   
 end
 ```
