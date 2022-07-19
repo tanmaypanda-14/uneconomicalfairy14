@@ -1,17 +1,19 @@
 ```ruby
 # frozen_string_literal: true
 module Tanmay
-  OCCUPATION = NULL
-  CONTACT = "tanmay404103@outlook.com"
   TERMINAL_EMULATOR = "Alacritty"
   TEXT_EDITOR = "Neovim"
   PROGRAMMING_INTERESTS = %i[
     unix_systems terminal_emulators
     ML DSA CP 
    ]
-  IMPERATIVE_LANGUAGES = %i[html django cpp c java]
-  DECLARATIVE_LANGUAGES = %i[react javascript python sql lua ]
-  
+  FRAMEWORKS = %i[flask django reactjs]
+  LIBRARIES = %i[Pandas scikit-learn]
+  DATABASES = %i[ "nosql": mongodb firebase 
+                  "sql" : mysql postgresql 
+  ]
+  IMPERATIVE_LANGUAGES = %i[html cpp c java]
+  DECLARATIVE_LANGUAGES = %i[javascript python sql lua]
 end
 ```
 <!-- &include_all_commits=true -->
