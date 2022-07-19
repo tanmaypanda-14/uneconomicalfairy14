@@ -24,8 +24,17 @@ end
 ```
 <!-- &include_all_commits=true -->
 
-|<a href="https://github.com/uneconomicalfairy14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uneconomicalfairy14&show_icons=true&theme=dracula&hide_border=true" alt="Uneconomicalfairy's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uneconomicalfairy14&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
-| ------------- | ------------- |
+<!--|<a href="https://github.com/uneconomicalfairy14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=uneconomicalfairy14&show_icons=true&theme=dracula&hide_border=true" alt="Uneconomicalfairy's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uneconomicalfairy14&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
+| ------------- | ------------- |-->
+<center>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+  <tr>
+    <td valign=""><img src="https://github-readme-streak-stats.herokuapp.com?user=uneconomicalfairy14&theme=dracula&hide_border=true?raw=false"/></td>
+  </tr>
+</table>
+</center>
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uneconomicalfairy14&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)-->
 
 <!-- <a href="https://github.com/uneconomicalfairy14/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uneconomicalfairy14&layout=compact&theme=dracula&hide_border=true" /></a> -->
 
