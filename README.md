@@ -9,6 +9,7 @@ module Tanmay
    ]
   FRAMEWORKS = %i[flask django reactjs]
   LIBRARIES = %i[Pandas scikit-learn]
+  RUNTIMES = %i[node.js]
   DATABASES = %i[ "nosql": mongodb firebase 
                   "sql" : mysql postgresql 
   ]
