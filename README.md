@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Tanmay+Panda&font=Fira%20Code&center=true&width=440&height=45&color=58a7f1&vCenter=true&size=22"></a>
-</p>
-
 ```ruby
 # frozen_string_literal: true
 module Tanmay
