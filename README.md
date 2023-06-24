@@ -19,7 +19,7 @@ end
 ```
 <!-- &include_all_commits=true -->
 
-|<a href="https://github.com/uneconomicalfairy14/github-readme-stats"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=uneconomicalfairy14&show_icons=true" alt="Uneconomicalfairy's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uneconomicalfairy14&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
+|<a href="https://github.com/uneconomicalfairy14/github-readme-stats"><img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=uneconomicalfairy14&show_icons=true&theme=dracula" alt="Uneconomicalfairy's github stats" /></a> | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=uneconomicalfairy14&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) |
 | ------------- | ------------- |
 
 <!--fhkjd -->
